@@ -1,8 +1,13 @@
 ---
-permalink: /about/
+permalink: /
 title: "About"
+excerpt: "About"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm a Data Scientist at Lazard interested in causal inference, statistics in finance/social sciences, and the ethics of artificial intelligence. I graduated summa cum laude from the University of California, Berkeley in May 2020 with a BA in statistics and applied math.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I also write about the stories of players, coaches, and leaders of Asian descent in hockey at [Asian Americans in Hockey](https://asianamericansinhockey.com/)
