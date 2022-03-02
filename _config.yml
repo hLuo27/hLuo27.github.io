@@ -45,25 +45,23 @@ plugins:
 
 author:
   name: "Hubert Luo"
-  avatar: "profile.jpg"
-  bio: "Data Science @ Lazard <br> UC Berkeley '20 <br> Statistics + Applied Math"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Data Science @ Lazard"
   location: "Toronto, ON"
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/hubertluo/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hluo27"
 
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+#footer:
+#  links:
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/"
+
 
 defaults:
   # _posts
