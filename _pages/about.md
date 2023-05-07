@@ -72,15 +72,31 @@ Writing profiles and updates on hockey players of Asian descent. November 2018-P
 
 ## Research Experience
 
-**Stark Research Group, UC Berkeley Statistics Department**
+**Stark Research Group, UC Berkeley Statistics Department** (September 2018 - November 2020)
 
-  - Undergraduate Researcher (September 2018 - November 2020)
+I worked on the Look Who's Talking project to examine differences in the number, nature, and duration of interruptions in academic job talks based on the presenter's gender.
 
-**Family and Culture Lab, UC Berkeley Psychology Department**
+**Family and Culture Lab, UC Berkeley Psychology Department** (January 2017 - May 2018)
 
-  - Undergraduate Researcher (January 2017 - May 2018)
+I worked on the Kids and Family Project, a longitudinal study that examined the risk and protective factors for mental health adjustment in Chinese-American immigrant children.
 
 ## Teaching Experience
 
   - TA (Undergraduate Student Instructor): Data Science (Spring 2020, Fall 2019)
   - Group Tutor: Data Science (Spring 2019, Fall 2018), Probability Theory (Spring 2018), Linear Algebra (Fall 2017)
+
+## Education
+
+**University of Texas at Austin** (Expected: 2024)
+
+- M.S. Computer Science (in progress)
+- Selected Coursework: Deep Learning, Natural Language Processing (NLP), Machine Learning, Optimization
+
+**University of California, Berkeley** (May 2020)
+
+- B.A. Statistics, B.A. Applied Math. *summa cum laude (highest honours)*
+- Selected Coursework: Time Series, Probability, Sampling, Linear/Abstract Algebra, Real/Complex/Numerical Analysis
+
+**Royal Conservatory of Music** (November 2014)
+
+- Associate Diploma (ARCT), Piano Performance
