@@ -82,12 +82,5 @@ Writing profiles and updates on hockey players of Asian descent. November 2018-P
 
 ## Teaching Experience
 
-**Data 8: Principles of Data Science**
-
-  - TA (Undergraduate Student Instructor): Fall 2019, Spring 2020 
-  - Group Tutor: Fall 2018, Spring 2019
-
-**Stat 134: Concepts of Probability** 
-
-  - Group Tutor: Spring 2018
-  
+  - TA (Undergraduate Student Instructor): Data Science (Spring 2020, Fall 2019)
+  - Group Tutor: Data Science (Spring 2019, Fall 2018), Probability Theory (Spring 2018), Linear Algebra (Fall 2017)
