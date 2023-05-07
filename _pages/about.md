@@ -51,3 +51,43 @@ Scraping and analysis of 108,488 draft picks from 23 seasons based on various dr
 ### [Asian Americans in Hockey](https://asianamericansinhockey.com/)
 
 Writing profiles and updates on hockey players of Asian descent. November 2018-Present.
+
+## Work Experience
+
+**Lazard Freres & Co.** (Investment Bank)
+
+  - Data Scientist II (January 2022 - Present)
+  - Data Scientist (July 2020 - January 2022)
+  - Data Science Intern (May 2019 - August 2019)
+
+**WellDone International** (NGO)
+
+  - Data Science Intern (June 2018-October 2018)
+
+**Berkeley Model United Nations**
+
+  - CEO (March 2019 - March 2020)
+  - Board Member (March 2019 - March 2023)
+  - VP of Organizational Partnerships (April 2017 - April 2019)
+
+## Research Experience
+
+**Stark Research Group, UC Berkeley Statistics Department**
+
+  - Undergraduate Researcher (September 2018 - November 2020)
+
+**Family and Culture Lab, UC Berkeley Psychology Department**
+
+  - Undergraduate Researcher (January 2017 - May 2018)
+
+## Teaching Experience
+
+**Data 8: Principles of Data Science**
+
+  - Undergraduate Student Instructor ([Fall 2019](http://data8.org/fa19/),  [Spring 2020](http://data8.org/sp20/)) 
+  - Group Tutor ([Fall 2018](http://data8.org/fa18/), [Spring 2019](http://data8.org/sp19/))
+
+**Stat 134: Concepts of Probability** 
+
+  - Group Tutor ([Spring 2018](https://github.com/hLuo27/teaching/tree/master/stat134))
+  
