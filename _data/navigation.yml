@@ -1,5 +1,7 @@
 # main links links
 main:
-#  - title: "Projects"
-#    url: /projects/
+  - title: "Projects"
+    url: https://hluo27.github.io/#projects
+  - title: "Experience"
+    url: /#work-experience
 
