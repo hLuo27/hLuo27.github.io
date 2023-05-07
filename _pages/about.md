@@ -69,22 +69,7 @@ Writing profiles and updates on hockey players of Asian descent. November 2018-P
   - CEO (March 2019 - March 2020)
   - Board Member (March 2019 - March 2023)
   - VP of Organizational Partnerships (April 2017 - April 2019)
-
-## Research Experience
-
-**Stark Research Group, UC Berkeley Statistics Department** (September 2018 - November 2020)
-
-I worked on the Look Who's Talking project to examine differences in the number, nature, and duration of interruptions in academic job talks based on the presenter's gender.
-
-**Family and Culture Lab, UC Berkeley Psychology Department** (January 2017 - May 2018)
-
-I worked on the Kids and Family Project, a longitudinal study that examined the risk and protective factors for mental health adjustment in Chinese-American immigrant children.
-
-## Teaching Experience
-
-  - TA (Undergraduate Student Instructor): Data Science (Spring 2020, Fall 2019)
-  - Group Tutor: Data Science (Spring 2019, Fall 2018), Probability Theory (Spring 2018), Linear Algebra (Fall 2017)
-
+  
 ## Education
 
 **University of Texas at Austin** (Expected: 2024)
@@ -100,3 +85,18 @@ I worked on the Kids and Family Project, a longitudinal study that examined the 
 **Royal Conservatory of Music** (November 2014)
 
 - Associate Diploma (ARCT), Piano Performance
+
+## Research
+
+**Stark Research Group, UC Berkeley Statistics Department** (September 2018 - November 2020)
+
+I worked on the Look Who's Talking project to examine differences in the number, nature, and duration of interruptions in academic job talks based on the presenter's gender.
+
+**Family and Culture Lab, UC Berkeley Psychology Department** (January 2017 - May 2018)
+
+I worked on the Kids and Family Project, a longitudinal study that examined the risk and protective factors for mental health adjustment in Chinese-American immigrant children.
+
+## Teaching Experience
+
+  - TA (Undergraduate Student Instructor): Data Science (Spring 2020, Fall 2019)
+  - Group Tutor: Data Science (Spring 2019, Fall 2018), Probability Theory (Spring 2018), Linear Algebra (Fall 2017)
