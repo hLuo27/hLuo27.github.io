@@ -16,7 +16,7 @@ I'm a Data Scientist at Lazard, the world's largest independent investment bank,
 
 Applying key factors and lessons learned from National Hockey League (NHL) expected goal models to SuperTuxKart using reinforcement, imitation, and deep learning approaches via a state-based agent. 
 
-*Reinforcement Learning, Deep Learning (pytorch, optuna), Python. Best paper in graduate-level deep learning class*
+*Reinforcement Learning, Deep Learning (pytorch, optuna), Python*
 
 **Predicting Batting Performance with Ensemble Neural Nets and Data Augmentation in Baseball Simulator** [[pdf]](../assets/files/Brokenbat_Player_Modelling.pdf)
 
