@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Data Scientist at Lazard interested in statistical and machine learning applications to finance/social sciences. I graduated summa cum laude from the University of California, Berkeley with a BA in statistics and applied math, and I'm currently pursuing a MS in computer science (part-time) from the University of Texas at Austin.
+I'm a Data Scientist at Lazard, the world's largest independent investment bank, where I apply statistical and machine learning to M&A, equity capital markets, and financial advisory. I graduated summa cum laude from the University of California, Berkeley with a BA in statistics and applied math, and I'm currently pursuing a MS in computer science (part-time) from the University of Texas at Austin.
 
 ## Projects
 
