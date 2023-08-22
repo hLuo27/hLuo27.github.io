@@ -56,7 +56,7 @@ Writing profiles and updates on hockey players of Asian descent. November 2018-P
 
 **Lazard Freres & Co.** (Investment Bank)
 
-  - Data Scientist II (January 2022 - Present)
+  - Senior Data Scientist (January 2022 - Present)
   - Data Scientist (July 2020 - January 2022)
   - Data Science Intern (May 2019 - August 2019)
 
