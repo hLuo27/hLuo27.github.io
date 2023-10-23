@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Data Scientist at Lazard, where I apply statistical and machine learning to finance at the world's largest independent investment bank. I graduated summa cum laude from the University of California, Berkeley with a BA in statistics and applied math, and I'm currently pursuing a MS in computer science (part-time) from the University of Texas at Austin.
+I'm a Data Scientist at Lazard, where I apply machine learning, quantitative analysis, and statistics to finance. I graduated summa cum laude from the University of California, Berkeley with a BA in statistics and applied math, and I'm currently pursuing a MS in computer science (part-time) from the University of Texas at Austin.
 
 ## Projects
 
@@ -54,7 +54,7 @@ Writing profiles and updates on hockey players of Asian descent. November 2018-P
 
 ## Work Experience
 
-**Lazard Freres & Co.** (Investment Bank)
+**Lazard** (Investment Bank/Asset Management)
 
   - Senior Data Scientist (January 2022 - Present)
   - Data Scientist (July 2020 - January 2022)
