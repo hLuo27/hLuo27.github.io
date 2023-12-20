@@ -12,7 +12,7 @@ I'm a Data Scientist at Lazard, where I apply machine learning, quantitative ana
 
 ## Publications
 
-** Look who’s talking: gender differences in academic job talks**
+**Look who’s talking: gender differences in academic job talks**
 
 Glazer, A.K., **Luo, H.**, Devgon, S., et al. *ScienceOpen Research.* 2023. DOI: 10.14293/S2199-1006.1.SOR.2023.0003.v1 [[pdf]](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR.2023.0003.v1)
 
