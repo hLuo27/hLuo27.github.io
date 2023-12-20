@@ -10,6 +10,28 @@ redirect_from:
 
 I'm a Data Scientist at Lazard, where I apply machine learning, quantitative analysis, and statistics to finance. I graduated summa cum laude from the University of California, Berkeley with a BA in statistics and applied math, and I'm currently pursuing a MS in computer science (part-time) from the University of Texas at Austin.
 
+## Work Experience
+
+**Lazard** (Investment Bank/Asset Management)
+
+  - Senior Data Scientist (January 2022 - Present)
+  - Data Scientist (July 2020 - January 2022)
+  - Data Science Intern (May 2019 - August 2019)
+
+**WellDone International** (NGO)
+
+  - Data Science Intern (June 2018-October 2018)
+
+**Berkeley Model United Nations**
+
+  - CEO (March 2019 - March 2020)
+  - Board Member (March 2019 - March 2023)
+  - VP of Organizational Partnerships (April 2017 - April 2019)
+
+## Publications
+
+Glazer, A.K., **Luo, H.**, Devgon, S., et al. Look who’s talking: gender differences in academic job talks. ScienceOpen Research. 2023. DOI: 10.14293/S2199-1006.1.SOR.2023.0003.v1 [[pdf]](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR.2023.0003.v1)
+
 ## Projects
 
 **Reinforcement Learning on NHL Expected Goal Models in SuperTuxKart** [[pdf]](../assets/files/supertuxkart_deep_learning.pdf)
@@ -51,24 +73,6 @@ Scraping and analysis of 108,488 draft picks from 23 seasons based on various dr
 **[Asian Americans in Hockey](https://asianamericansinhockey.com/)**
 
 Writing profiles and updates on hockey players of Asian descent. November 2018-Present.
-
-## Work Experience
-
-**Lazard** (Investment Bank/Asset Management)
-
-  - Senior Data Scientist (January 2022 - Present)
-  - Data Scientist (July 2020 - January 2022)
-  - Data Science Intern (May 2019 - August 2019)
-
-**WellDone International** (NGO)
-
-  - Data Science Intern (June 2018-October 2018)
-
-**Berkeley Model United Nations**
-
-  - CEO (March 2019 - March 2020)
-  - Board Member (March 2019 - March 2023)
-  - VP of Organizational Partnerships (April 2017 - April 2019)
   
 ## Education
 
@@ -98,5 +102,6 @@ I worked on the Kids and Family Project, a longitudinal study that examined the 
 
 ## Teaching Experience
 
-  - TA (Undergraduate Student Instructor): Data Science (Spring 2020, Fall 2019)
-  - Group Tutor: Data Science (Spring 2019, Fall 2018), Probability Theory (Spring 2018), Linear Algebra (Fall 2017)
+**TA (Undergraduate Student Instructor):** Data Science (Spring 2020, Fall 2019)
+
+**Group Tutor:** Data Science (Spring 2019, Fall 2018), Probability Theory (Spring 2018), Linear Algebra (Fall 2017)
