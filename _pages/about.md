@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Data Scientist at Lazard, where I apply machine learning, quantitative analysis, and statistics to finance. I graduated summa cum laude from the University of California, Berkeley with a BA in statistics and applied math, and I'm currently pursuing a MS in computer science (part-time) from the University of Texas at Austin.
+I'm a Data Scientist at Lazard, where I apply AI, quantitative analysis, and statistics to finance. I graduated summa cum laude from the University of California, Berkeley with a BA in statistics and applied math, and I'm currently pursuing a MS in computer science (part-time) from the University of Texas at Austin.
 
 ## Publications
+
+**Improving NHL draft outcome predictions using scouting reports**
+
+**Luo, H.** *Journal of Quantitative Analysis in Sports* 2024. *Accepted.* [[pdf]](../assets/files/NHL_Draft_Scouting_Reports.pdf)
 
 **Look who’s talking: gender differences in academic job talks**
 
