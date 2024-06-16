@@ -14,7 +14,7 @@ I'm a Data Scientist at Lazard, where I apply AI, quantitative analysis, and sta
 
 **Improving NHL draft outcome predictions using scouting reports**
 
-**Luo, H.** *Journal of Quantitative Analysis in Sports* 2024. *Accepted.* [[pdf]](../assets/files/NHL_Draft_Scouting_Reports.pdf)
+**Luo, H.** *Journal of Quantitative Analysis in Sports* 2024. *Accepted.* [[pdf]](../assets/files/NHL_Draft_Scouting_Reports.pdf) [[web app]](https://nhldraft.streamlit.app/)
 
 **Look who’s talking: gender differences in academic job talks**
 
