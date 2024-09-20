@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Data Scientist at Lazard, where I apply AI, quantitative analysis, and statistics to finance. I graduated summa cum laude from the University of California, Berkeley with a BA in statistics and applied math, and I'm currently pursuing a MS in computer science (part-time) from the University of Texas at Austin.
+AI/Data Science Leader with 5 years of experience managing cross-functional projects in M&A, capital markets, and geopolitical advisory. Expertise in machine learning, statistics, and LLMs, with advanced development skills in Python and cloud platforms. Outside of work, I research AI and machine learning applications to sports and have published in leading journals. I graduated summa cum laude from the University of California, Berkeley with a BA in statistics and applied math.
 
 ## Publications
 
