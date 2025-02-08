@@ -20,6 +20,35 @@ AI/Data Science Leader with 5 years of experience managing cross-functional proj
 
 Glazer, A.K., **Luo, H.**, et al. *ScienceOpen Research.* 2023. DOI: 10.14293/S2199-1006.1.SOR.2023.0003.v1 [[pdf]](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR.2023.0003.v1)
 
+## Work Experience
+
+**Lazard**
+
+  - Vice President, Data Science (January 2025 - Current)
+  - Associate, Data Science (January 2022 - January 2025)
+  - Data Scientist (July 2020 - January 2022)
+  - Data Science Intern (May 2019 - August 2019)
+
+**WellDone International**
+
+  - Data Science Intern (June 2018-October 2018)
+
+## Education
+
+**University of Texas at Austin** (Expected: 2025)
+
+- M.S. Computer Science (in progress)
+- Selected Coursework: Deep Learning, Natural Language Processing (NLP), Machine Learning, Optimization
+
+**University of California, Berkeley** (May 2020)
+
+- B.A. Statistics, B.A. Applied Math. *summa cum laude (highest honours)*
+- Selected Coursework: Time Series, Probability, Sampling, Linear/Abstract Algebra, Real/Complex/Numerical Analysis
+
+**Royal Conservatory of Music** (November 2014)
+
+- Associate Diploma (ARCT), Piano Performance
+
 ## Projects
 
 **Reinforcement Learning on NHL Expected Goal Models in SuperTuxKart** [[pdf]](../assets/files/supertuxkart_deep_learning.pdf)
@@ -37,40 +66,6 @@ Various NLP architectures including stacked LSTMs, ensemble transformers, and lo
 **Identifying Optimal Draft Strategies in a Baseball Simulator** [[pdf]](../assets/files/BrokenBat_Draft_Report.pdf)
 
 Scraping and analysis of 108,488 draft picks from 23 seasons based on various draft metrics in a baseball simulator.
-
-## Work Experience
-
-**Lazard** (Investment Bank/Asset Management)
-
-  - Senior Data Scientist (January 2022 - Present)
-  - Data Scientist (July 2020 - January 2022)
-  - Data Science Intern (May 2019 - August 2019)
-
-**WellDone International** (NGO)
-
-  - Data Science Intern (June 2018-October 2018)
-
-**Berkeley Model United Nations**
-
-  - CEO (March 2019 - March 2020)
-  - Board Member (March 2019 - March 2023)
-  - VP of Organizational Partnerships (April 2017 - April 2019)
-  
-## Education
-
-**University of Texas at Austin** (Expected: 2024)
-
-- M.S. Computer Science (in progress)
-- Selected Coursework: Deep Learning, Natural Language Processing (NLP), Machine Learning, Optimization
-
-**University of California, Berkeley** (May 2020)
-
-- B.A. Statistics, B.A. Applied Math. *summa cum laude (highest honours)*
-- Selected Coursework: Time Series, Probability, Sampling, Linear/Abstract Algebra, Real/Complex/Numerical Analysis
-
-**Royal Conservatory of Music** (November 2014)
-
-- Associate Diploma (ARCT), Piano Performance
 
 ## Research
 
