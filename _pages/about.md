@@ -44,6 +44,7 @@ Glazer, A.K., **Luo, H.**, et al. *ScienceOpen Research.* 2023. DOI: 10.14293/S2
 
 - B.A. Statistics, B.A. Applied Math. *summa cum laude (highest honours)*
 - Selected Coursework: Time Series, Probability, Sampling, Linear/Abstract Algebra, Real/Complex/Numerical Analysis
+- Secretary-General, Berkeley Model United Nations, 68th Session
 
 **Royal Conservatory of Music** (November 2014)
 
