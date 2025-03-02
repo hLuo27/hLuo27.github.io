@@ -46,8 +46,8 @@ plugins:
 author:
   name: "Hubert Luo"
   avatar: "/assets/images/profile.jpg"
-  bio: "AI / Investment Banking / Berkeley '20"
-  location: "Toronto, ON"
+  bio: "AI / Investment Banking"
+  location: "Toronto, Canada"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
@@ -55,6 +55,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hluo27"
+    - label: "Google Scholar"
+      icon: "fab fa-google"
+      url: "https://scholar.google.com/citations?user=o-pGk90AAAAJ&hl=en"
+
 
 #footer:
 #  links:
