@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- Professional Background: AI & Data Science / Capital Markets (M&A, Shareholder Advisory, and Equity Capital Markets)
+- Professional Background: AI & Data Science / M&A, Shareholder Advisory, and Equity Capital Markets
 - Research Interests: Applied Statistics in Finance, Sports, and Social Sciences
 
 ## Publications
@@ -42,36 +42,18 @@ Glazer, A.K., **Luo, H.**, et al. *ScienceOpen Research.* 2023. DOI: 10.14293/S2
 
 **University of Texas at Austin** (May 2025)
 
-- M.S. Computer Science. Part-time studies while working full-time.
+- M.S. Computer Science. *GPA: 3.87/4.0. Part-time studies while working full-time.*
 - Selected Coursework: Deep Learning, Natural Language Processing (NLP), Machine Learning
 
 **University of California, Berkeley** (May 2020)
 
-- B.A. Statistics, B.A. Applied Math. *summa cum laude (highest honours)*
+- B.A. Statistics, B.A. Applied Math. *GPA: 3.92/4.0. Highest Honours.*
 - Selected Coursework: Time Series, Probability, Sampling, Linear/Abstract Algebra, Real/Complex/Numerical Analysis
 - Secretary-General, Berkeley Model United Nations, 68th Session
 
 **Royal Conservatory of Music** (November 2014)
 
 - Associate Diploma (ARCT), Piano Performance
-
-## Projects
-
-**Reinforcement Learning on NHL Expected Goal Models in SuperTuxKart** [[pdf]](../assets/files/supertuxkart_deep_learning.pdf)
-
-Applying key factors and lessons learned from National Hockey League (NHL) expected goal models to SuperTuxKart using reinforcement, imitation, and deep learning approaches via a state-based agent.
-
-**Predicting Batting Performance with Ensemble Neural Nets and Data Augmentation in Baseball Simulator** [[pdf]](../assets/files/Brokenbat_Player_Modelling.pdf) [[web app]](https://share.streamlit.io/hluo27/broken_bat_app/main)
-
-Developing a metric to evaluate batting performance, identifying the drivers of increased offensive ability, and using ensemble neural net architecture with data augmentation to improve prediction of batting performance for 20,868 seasons in a baseball simulator.
-
-**Yelp Review Rating Prediction with Stacked LSTMs and Data Augmentation** [[pdf]](../assets/files/yelp.pdf)
-
-Various NLP architectures including stacked LSTMs, ensemble transformers, and logistic regression were applied in conjunction with data augmentation techniques to effectively predict Yelp review ratings.
-
-**Identifying Optimal Draft Strategies in a Baseball Simulator** [[pdf]](../assets/files/BrokenBat_Draft_Report.pdf)
-
-Scraping and analysis of 108,488 draft picks from 23 seasons based on various draft metrics in a baseball simulator.
 
 ## Research
 
@@ -83,7 +65,7 @@ I worked on the Look Who's Talking project to examine differences in the number,
 
 I worked on the Kids and Family Project, a longitudinal study that examined the risk and protective factors for mental health adjustment in Chinese-American immigrant children.
 
-## Teaching Experience
+## Teaching
 
 **TA (Undergraduate Student Instructor):** Data Science (Spring 2020, Fall 2019)
 
