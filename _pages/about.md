@@ -8,9 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-AI/Data Science Leader with 5 years of experience managing cross-functional projects in M&A, capital markets, and geopolitical advisory. Expertise in machine learning, statistics, and LLMs, with advanced development skills in Python and cloud platforms. Outside of work, I research AI and machine learning applications to sports and have published in leading journals. I graduated summa cum laude from the University of California, Berkeley with a BA in statistics and applied math.
+- Professional Background: AI & Data Science / Capital Markets (M&A, Shareholder Advisory, and Equity Capital Markets)
+- Research Interests: Applied Statistics in Finance, Sports, and Social Sciences
 
 ## Publications
+
+**Understanding Team Attributes through Fan Reactions: A Novel Framework for Engagement and Sentiment in NHL Communities Using Large-Scale Reddit Data**
+
+**Luo, H.** and Glazer, A.K. *Under Review.*
 
 **Improving NHL draft outcome predictions using scouting reports**
 
@@ -20,7 +25,7 @@ AI/Data Science Leader with 5 years of experience managing cross-functional proj
 
 Glazer, A.K., **Luo, H.**, et al. *ScienceOpen Research.* 2023. DOI: 10.14293/S2199-1006.1.SOR.2023.0003.v1 [[pdf]](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR.2023.0003.v1)
 
-## Work Experience
+## Experience
 
 **Lazard**
 
@@ -35,10 +40,10 @@ Glazer, A.K., **Luo, H.**, et al. *ScienceOpen Research.* 2023. DOI: 10.14293/S2
 
 ## Education
 
-**University of Texas at Austin** (Expected: 2025)
+**University of Texas at Austin** (May 2025)
 
-- M.S. Computer Science (in progress)
-- Selected Coursework: Deep Learning, Natural Language Processing (NLP), Machine Learning, Optimization
+- M.S. Computer Science. Part-time studies while working full-time.
+- Selected Coursework: Deep Learning, Natural Language Processing (NLP), Machine Learning
 
 **University of California, Berkeley** (May 2020)
 
