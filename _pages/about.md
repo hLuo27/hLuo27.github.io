@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-- Professional Background: AI & Data Science / M&A, Shareholder Advisory, and Equity Capital Markets
-- Research Interests: Applied Statistics in Finance, Sports, and Social Sciences
+- Professional Background: AI & Data Science in M&A and Equity Capital Markets
+- Research Interests: Data-Driven Decision-Making in Digital Markets, Strategy, and Platforms
 
 ## Publications
 
