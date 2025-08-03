@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- Professional Background: AI & Data Science in M&A and Equity Capital Markets
+- Professional Background: AI/Data Science in M&A and Equity Capital Markets
 - Research Interests: Data-Driven Decision-Making in Digital Markets, Strategy, and Platforms
 
 ## Publications
